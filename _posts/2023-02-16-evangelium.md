@@ -1,5 +1,5 @@
 ---
-title:  "Aus dem Heiligen Evangelium nach Markus 8,27-33"
+title: "Aus dem Heiligen Evangelium nach Markus 8,27-33"
 layout: post
 categories: EVANGELIUM
 date: 2023-02-16 13:28:35 +0100
