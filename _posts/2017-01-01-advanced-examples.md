@@ -2,7 +2,8 @@
 title:  "Advanced examples"
 mathjax: true
 layout: post
-categories: media
+categories: media CATEGORY-1 CATEGORY-2
+date: 2020-02-01 10:10:10 -0000
 ---
 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
